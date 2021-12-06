@@ -1,0 +1,17 @@
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Entity.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\bin\Debug\net5.0\Entity.pdb
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\VIcto\OneDrive\Documentos\Programacion Web\Proyectos Web\Ejecicio-en-clase-3\Logica\obj\Debug\net5.0\Logica.pdb
